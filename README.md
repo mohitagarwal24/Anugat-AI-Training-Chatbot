@@ -2,7 +2,14 @@
 
 A modern web application for training, testing, and monitoring AI chatbot responses. This portal allows administrators to interact with an AI model, track performance metrics, and manage low-confidence responses.
 
-![AI Training Portal](https://via.placeholder.com/800x400?text=AI+Training+Portal)
+The website can be accessed at https://anugat-ai-training-chatbot.vercel.app/
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/016eb386-046c-45c0-9ef7-991558e4b5c2)
+![image](https://github.com/user-attachments/assets/85e8ab10-d1a5-423a-b3d9-fe3f3c5a12fc)
+![image](https://github.com/user-attachments/assets/2f11fb1b-4f8c-4f09-9edd-d206019cf5b8)
+![image](https://github.com/user-attachments/assets/c3ae3380-dcb2-4115-9b96-18f30b9a829b)
+![image](https://github.com/user-attachments/assets/5a45110f-8aab-43c2-8b30-1bfeb528494a)
 
 ## Features
 
